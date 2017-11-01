@@ -1,6 +1,6 @@
 June 27, 2006:
 =============
-
+added this test
 * SVG-cards 2.0.1
 	- BUG:
 		. fixed a bug in the first xml line to correctly refer to w3.org and not w3org
